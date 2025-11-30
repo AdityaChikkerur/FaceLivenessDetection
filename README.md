@@ -69,5 +69,3 @@ Inside the project folder:
 cd FaceLivenessDetection
 python3 src/fld_experiments.py
 
-👨‍💻 Author 
-Shreyas Kadlimatti
